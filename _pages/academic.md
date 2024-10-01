@@ -1,8 +1,8 @@
 ---
-title: "Research"
+title: "Academic"
 layout: single
 sitemap: true
-permalink: /research/
+permalink: /academic/
 author_profile: true
 toc: true
 toc_label: "Research"
@@ -10,87 +10,23 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography and computational science. Current and past research projects include:
-- Ocean mesoscale eddies
-- Machine learning for ocean modeling
-- Uncertainty quantification & observing system design
-- Oceanic teleconnections in the North Atlantic
-- Development of open source software tools
+<style>
+  .page-content {
+    text-align: justify;
+  }
+
+<h2>Bio</h2>
+<p>Dr. Bappy is an <em>Assistant Professor</em> in the <a href="https://www.lsu.edu/eng/mie/">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/">Louisiana State University (LSU), USA</a>. His research spans <strong>advanced sensing and analytics for systems informatics</strong>, <strong>privacy-preserving modeling</strong>, and <strong>expert AI collaboration</strong>, with applications in <em>smart manufacturing systems</em>, <em>cyber-physical security</em>, <em>energy systems</em>, <em>engineering education</em>, and <em>sustainability</em>. His <strong>methodological interests</strong> include <em>Artificial Intelligence (AI)</em>, <em>Privacy-preserving Machine Learning (ML)</em>, <em>Physics-informed ML</em>, <em>Optimization</em>, <em>Multi-criteria Decision Analysis</em>, and <em>Lean Six Sigma</em>. Prior to his current role, Dr. Bappy conducted his research at the <strong>Intelligent Data-Enabled Analytics (IDEA) Laboratory</strong> at <a href="https://www.msstate.edu/">Mississippi State University (MSU), USA</a>, where he was awarded the <strong>ISE “Outstanding Graduate Student Researcher” award</strong> for 2023-2024. He obtained his Ph.D. in <em>Industrial and Systems Engineering</em> from MSU and his M.Sc. in <em>Industrial and Production Engineering</em> from the <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering and Technology (BUET), Bangladesh</a>. With five years of experience as an <em>Industrial Engineer</em> in leading multinational manufacturing industries and two years as a <em>Lecturer</em> at <a href="https://www.sust.edu/">Shahjalal University of Science and Technology (SUST), Bangladesh</a>, he has a strong foundation in both academia and industry. Dr. Bappy has a proven track record of developing <strong>cutting-edge algorithms</strong> for <em>advanced manufacturing quality control</em>, <em>privacy-preserving cyber manufacturing</em>, <em>condition-based maintenance</em>, and <em>biomanufacturing for bone tissue engineering</em>. His research has been published in prestigious journals, including the <em>Journal of Manufacturing Systems</em>, <em>Manufacturing Letters</em>, <em>Journal of Manufacturing Science and Engineering</em>, and the <em>Journal of Manufacturing Processes</em>.</p>
 
 
-## Ocean Mesoscale Eddies
+<h3>📚 <span style="color:#ff5733;">Academic Timeline</span></h3>
 
-<figure>
-  <img src="/assets/images/KE.png" width="1000px" alt="">
-  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.
-Right: A schematic of the ocean energy cycle.
-</figcaption>
-</figure>
-
-Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
-Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
-My research focuses on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
-To diagnose the energy cycle, I am using high-resolution idealized models. 
-With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
-
-Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
-[Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
-[Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
-
-## Uncertainty Quantification & Observing System Design
-
-<figure>
-  <img src="/assets/images/QND.png" alt="">
-  <figcaption> 
-The Global Ocean Observing System (GOOS) consists of an eclectic mix of satellite and in-situ platforms. Designing optimal observing strategies that account for complementarity and redundancy of observational assets is an unsolved scientific and computational challenge.
-</figcaption>
-</figure>
-
-Ocean observing systems are expensive to build and maintain, and therefore have to be designed carefully. I am interested in questions such as:
-- What dynamical information is contained in already existing observation networks? 
-- What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
-
-To tackle these questions, I perform quantitative observing system design, through a combination of Bayesian inverse methods and uncertainty quantification in a data assimilation framework. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
-
-Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
-[Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
-[Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
-
-## Oceanic Teleconnections in the North Atlantic
-
-<figure>
-  <img src="/assets/images/sensitivity_teleconnections.png" alt="">
-  <figcaption> 
-Left: Near-surface currents that are the mediator of oceanic teleconnections in the North Atlantic.
-Right: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow line) months or years later.  
-</figcaption>
-</figure>
-
-The seas around Greenland, Iceland, and Norway transport heat from the North Atlantic toward the Arctic.
-I am using adjoint-derived sensitivities in the [ECCO](https://ecco-group.org/) state estimate to identify drivers and locations that affect ocean heat transport in this region. Due to oceanic teleconnections, high-latitude heat transport is sensitive to local and remote(!) wind forcing.
-
-Related publications:
-[StoryMap](https://www.ecco-group.org/storymaps.htm?id=43);
- [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
-Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
-
-## Development of Open Source Software Tools
-
-I am engaged with developing open-source software tools to enable our Earth Science community to perform data analysis in an efficient and reproducible way. Recently, my focus has been on the python packages [ROMS-Tools](https://github.com/CWorthy-ocean/roms-tools) and [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
-`ROMS-Tools` is a python package for creating the input files that are necessary to run a ROMS simulation. This includes creating a grid, tidal, boundary, and atmospheric forcings, initial conditions, and more! 
-
-<figure>
-  <img src="/assets/images/filter_intro.png" alt="">
-  <figcaption> 
-Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source python package GCM-Filters.
-</figcaption>
-</figure>
-
-
-`GCM-Filters` is a python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. Users can employ `GCM-Filters` on either CPUs or GPUs, with NumPy or CuPy input data. Moreover, GCM-Filters leverages Dask and Xarray to support filtering of larger-than-memory datasets and computational flexibility. Community contributions are welcome!
-
-Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
-
-Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
-[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021); [Yu et al.](https://arxiv.org/abs/2306.08754).
-
+<div style="font-family: Arial, sans-serif;">
+  <ul>
+    🟣 <strong><span style="color:#2E8B57;">August 2024 - present</span></strong>, <span style="font-style: italic; color:#555;">Assistant Professor</span>, <a href="https://www.lsu.edu/eng/mie/">Mechanical and Industrial Engineering Department</a>, <a href="https://www.lsu.edu/">Louisiana State University (LSU), USA</a></li>
+    🔵 <strong><span style="color:#2E8B57;">Spring 2020 - 2024</span></strong>, <span style="font-style: italic; color:#555;">Ph.D. in Industrial and Systems Engineering</span>, <a href="https://www.theidealab-tian.com/">Idea Lab</a>, <a href="https://www.msstate.edu/">Mississippi State University (MSU), USA</a></li>
+    🟠 <strong><span style="color:#2E8B57;">January 2018 - December 2019</span></strong>, <span style="font-style: italic; color:#555;">Assistant Professor</span>, <a href="https://www.sust.edu/">Shahjalal University of Science and Technology (SUST), Bangladesh</a></li>
+    🟡 <strong><span style="color:#2E8B57;">October 2015 - October 2018</span></strong>, <span style="font-style: italic; color:#555;">M.Sc. in Industrial and Production Engineering</span>, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering and Technology (BUET), Bangladesh</a></li>
+    🟢 <strong><span style="color:#2E8B57;">January 2009 - July 2013</span></strong>, <span style="font-style: italic; color:#555;">B.Sc. in Industrial and Production Engineering</span>, <a href="https://www.sust.edu/">Shahjalal University of Science and Technology (SUST), Bangladesh</a></li>
+  </ul>
+</div>
