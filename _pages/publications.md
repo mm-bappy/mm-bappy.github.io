@@ -4,28 +4,169 @@ layout: archive
 sitemap: true
 permalink: /publications/
 author_profile: true
+toc_label: "Publication Items"
+toc_icon: "gear"
+toc_sticky: true
 ---
 
+## Journal Papers
 
-## Preprints
+<div class="publication-row">
+    <img src="/assets/images/publication_1.png" class="publication-image" alt="Publication 1">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Durant Fullington, Linkan Bian & Wenmeng Tian, "**Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing**," In *Manufacturing Letters*, April, 2023.
+        <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
 
-| <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation. _submitted_. Preprint doi: [10.48550/arXiv.2306.08754](https://arxiv.org/abs/2306.08754).|
+<div class="publication-row">
+    <img src="/assets/images/publication_2.png" class="publication-image" alt="Publication 2">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Chenang Liu, Linkan Bian & Wenmeng Tian, "**Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes**," In *ASME Journal of Manufacturing Science and Engineering (JMSE)*, July, 2022.
+        <a href='https://doi.org/10.1115/1.4054805' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
 
-## Journal Articles
+<div class="publication-row">
+    <img src="/assets/images/publication_3.png" class="publication-image" alt="Publication 3">
+    <p>
+        Mehrnaz Noroozi Esfahani, **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Linkan Bian & Wenmeng Tian, "**In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis**," In *Journal of Manufacturing Processes (JMP)*, March, 2022.
+        <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
 
-| <a href="/assets/images/GLGMwork_0.25deg.png"><img src="/assets/images/GLGMwork_0.25deg.png" width="600px" alt=""> | **Loose, N.**, Marques, G.M., Adcroft, A., Bachman, S., Griffies, S.M., Grooms, I., Hallberg, R.W. and Jansen, M. (2022). Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model. _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2022MS003518](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518).|
-| <a href="/assets/images/bleck_cycle.png"><img src="/assets/images/bleck_cycle_small.png" width="600px" alt=""> | **Loose, N.**, Bachman, S., Grooms, I. and Jansen, M. (2022). Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model. _Journal of Physical Oceanography_. doi: [10.1175/JPO-D-22-0083.1](https://doi.org/10.1175/JPO-D-22-0083.1), Open-access preprint: [10.1002/essoar.10511055.2](https://www.essoar.org/doi/10.1002/essoar.10511055.2).|
-| <a href="/assets/images/NW2.png"><img src="/assets/images/NW2.png" width="600px" alt=""> | Marques, G., **Loose, N.**, Yankovsky, E., Steinberg, J., Chang, C-Y., Bhamidipati, N., Adcroft, A., Fox-Kemper, B., Griffies, S., Hallberg, R., Jansen, M., Khatri, H. and Zanna, L. (2022). NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions. _Geoscientic Model Development 15, no. 17: 6567-79_. doi: [10.5194/gmd-15-6567-2022](https://doi.org/10.5194/gmd-15-6567-2022).|
-| <a href="/assets/images/filtered_vorticity.png"><img src="/assets/images/filtered_vorticity_small.png" width="600px" alt=""> | **Loose, N.**, Abernathey, R., Grooms, I., Busecke, J., Guillaumin, A.P., Yankovsky, E., Marques, G., Steinberg, J.M., Ross, A.S., Khatri, H., Bachman, S.D., Zanna, L., Martin, P. (2022). GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data, _Journal of Open Source Software_. doi: [10.21105/joss.03947](https://doi.org/10.21105/joss.03947).|
-| <a href="/assets/images/figure_filter.png"><img src="/assets/images/figure_filter.png" width="600px" alt=""> | Grooms, I., **Loose, N.**, Abernathey, R., Steinberg, J.M., Bachman, S.D., Marques, G., Guillaumin A.P., Yankovsky E. (2021). Diffusion-Based Smoothers for Spatial Filtering of Gridded Geophysical Data, _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2021MS002552](https://doi.org/10.1029/2021MS002552).
-| <a href="/assets/images/fig_combObs.png"><img src="/assets/images/fig_combObs.png" width="600px" alt=""> | **Loose, N.** and Heimbach, P (2021). Leveraging Uncertainty Quantification to Design Ocean Climate Observing Systems. _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2020MS002386](https://doi.org/10.1029/2020MS002386).|
-| <a href="/assets/images/fig_UQ.png"><img src="/assets/images/fig_UQ.png" width="600px" alt=""> | **Loose, N.**, Heimbach, P., Pillar, H. and Nisancioglu, K. (2020) Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. _Journal of Geophysical Research: Oceans 125, no. 9_. doi: [10.1029/2020JC016112](https://doi.org/10.1029/2020JC016112). Selected as [Eos Research Spotlight](https://eos.org/research-spotlights/improving-proxy-representations-of-ocean-properties) and highlighted in this [StoryMap](https://www.ecco-group.org/storymaps.htm?id=43).|
-| <a href="/assets/images/fig_OSSE.png"><img src="/assets/images/fig_OSSE.png" width="600px" alt=""> | Fujii, Y., Remy, E., Zuo, H., Oke, P., Halliwell, G., Gasparin, F., Benkiran, M., **Loose, N.**, Cummings, J., Xie, J., Xue, Y., Masuda, S., Smith, G.C., Balmaseda, M., Germineaud, C., Lea, D.J., Larnicol, G., Bertino, L., Bonaduce, A., Brasseur, P., Donlon, C., Heimbach, P., Kim, Y., Kourafalou, V., Le Traon, P-Y., Martin, M., Paturi, S., Tranchant, B. and Usui, N. (2019). Observing System Evaluation Based on Ocean Data Assimilation and Prediction Systems: On-Going Challenges and a Future Vision for Designing and Supporting Ocean Observational Networks. _Front. Mar. Sci. 6:417_.  doi: [10.3389/fmars.2019.00417](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full)|
+<div class="publication-row">
+    <img src="/assets/images/publication_4.png" class="publication-image" alt="Publication 4">
+    <p>
+        Abdullah Al Mamun, **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, "**Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis**," In *International Journal of Advanced Manufacturing Technology (IJAMT)*, November, 2022.
+        <a href='https://doi.org/10.1007/s00170-022-10525-4' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
 
-## Thesis
+<div class="publication-row">
+    <img src="/assets/images/publication_5.png" class="publication-image" alt="Publication 5">
+    <p>
+        Al Mamun, A., **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Bian, L., & Tian, W. (2023). Missing Signal Imputation for Multichannel Sensing Signals on Rotary Machinery by Tensor Factorization. *Manufacturing Letters*. 
+        <a href='https://doi.org/10.1016/j.mfglet.2023.08.097' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
 
-| <a href="/assets/images/SPNA.png"><img src="/assets/images/SPNA.png" width="600px" alt=""> | **Loose, N.** (2019). Adjoint Modeling and Observing System Design in the Subpolar North Atlantic, _Ph.D. Dissertation_, University of Bergen, Norway. [http://bora.uib.no/handle/1956/24456](http://bora.uib.no/handle/1956/24456).|
+<div class="publication-row">
+    <img src="/assets/images/publication_6.png" class="publication-image" alt="Publication 6">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Key, J., Hossain, N. U. I., & Jaradat, R.(2022). Assessing the Social Impacts of Additive Manufacturing Using Hierarchical Evidential Reasoning Approach. *Global Journal of Flexible Systems Management, 23(2), 201-220*.
+        <a href='https://doi.org/10.1007/s40171-021-00295-5' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
+
+<div class="publication-row">
+    <img src="/assets/images/publication_7.png" class="publication-image" alt="Publication 7">
+    <p>
+        Rahman, S., **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Govindan, K., Nur, F. (2021). Assessing cyber resilience of additive manufacturing supply chain leveraging data fusion technique: A model to generate cyber resilience index of a supply chain. *CIRP Journal of Manufacturing Science and Technology*, 35(911-928).
+        <a href='https://doi.org/10.1016/j.cirpj.2021.09.008' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
+
+<div class="publication-row">
+    <img src="/assets/images/publication_8.png" class="publication-image" alt="Publication 8">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Ali, S. M., Kabir, G., Paul, S. K. (2019). Supply chain sustainability assessment with Dempster-Shafer evidence theory: implications in cleaner production. *Journal of Cleaner Production (JCP)*, 237, 117771.
+        <a href='https://doi.org/10.1016/j.jclepro.2019.117771' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
+
+<div class="publication-row">
+    <img src="/assets/images/publication_9.png" class="publication-image" alt="Publication 9">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Sayed, M. A. (2020). Reducing patients waiting time using the Six Sigma methodology in a Radiology Department. *Journal of Engineering Research, Innovation and Education (JERIE)*, 2(1&2), 32-41.
+    </p>
+</div>
+
+<div class="publication-row">
+    <img src="/assets/images/publication_10.png" class="publication-image" alt="Publication 10">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Musa, M. A., & Hossain, M. F. (2019). Productivity Improvement through Line Balancing - A Case Study in an Apparel Industry. *Global Scientific Journals (GSJ)*, 7(2), 893-902.
+        <a href='https://www.researchgate.net/profile/Md-Farhad-Hossain/publication/331638479_Productivity_Improvement_through_Line_Balancing-A_Case_Study_in_an_Apparel_Industry/links/5c84c33692851c6950680283/Productivity-Improvement-through-Line-Balancing-A-Case-Study-in-an-Apparel-Industry.pdf' class="btn btn--primary" target="_blank"><i class='fas fa-link'></i> Link</a>
+    </p>
+</div>
+
+<div class="publication-row">
+    <img src="/assets/images/publication_11.png" class="publication-image" alt="Publication 11">
+    <p>
+        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Karim, R. (2015). Identification of Significant factors for value-in-use assessment of product service system in business to business sector. *International Journal of Advanced Multidisciplinary Research (IJAMR)*, 2(3), 16-27.
+        <a href='https://ijarm.com/pdfcopy/mar2015/ijarm4.pdf' class="btn btn--primary" target="_blank"><i class='fas fa-link'></i> Link</a>
+    </p>
+</div>
+
+<div class="publication-row">
+    <img src="/assets/images/publication_12.png" class="publication-image" alt="Publication 12">
+    <p>
+        Fullington, D., Yangue, E., **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Liu, C., & Tian, W. (2023). Leveraging Small-scale Datasets for Additive Manufacturing: Current  Practice and Remaining Gaps. *Journal of Manufacturing Systems*.
+        <a href='https://doi.org/10.1016/j.jmsy.2024.04.021' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
+    </p>
+</div>
 
 
+## Manuscripts Under Review
 
+<div class="callout" style="background-color: #333; padding: 20px; border-left: 5px solid #31c458; color: #f0f0f0;">
+    <h2 style="color: #31c458;">Manuscripts Under Review</h2>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., Bian, L., & Tian, W. (2023). Adaptive Thermal History Deidentification for Privacy-preserving Process-defect Modeling of Metal Additive Manufacturing.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Epps, E. V., Priddy, L. B., & Tian, W. (2023). Parameter Optimization of 3D Printed Composite Bone Scaffolds for Accurate and Repeatable Manufacturing.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Nguimfack, R. T., Al Mamun, A., & Tian, W. (2023). Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., Yangue, E., Liu, C., & Tian, W. (2023). Leveraging Small-scale Datasets for Additive Manufacturing: Current Practice and Remaining Gaps.</p>
+</div>
+
+## Peer-Reviewed Conference Proceedings
+
+<div class="callout" style="background-color: #333; padding: 20px; border-left: 5px solid #31c458; color: #f0f0f0;">
+    <h2 style="color: #31c458;">Peer-Reviewed Conference Proceedings</h2>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Al Mamun, A., Fuller, S., Falls, T. C., Bian, L., & Tian, W. “Heterogeneous Sensor Fusion for In-situ Condition Monitoring of Rotary Machines.” IISE annual conference, 2021.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Sayed, M. A., “Reducing Patients Waiting Time Using the Six Sigma Methodology in a Radiology Department.” ICERIE, Sylhet, Bangladesh, 2020.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Ahmad, A., Kamruzzaman, M., “Supply chain optimization in apparel manufacturing.” Proceedings of the IEOM, Toronto, Canada, 2019.</p>
+</div>
+
+## Peer-Reviewed Conference and Symposium Presentations
+
+<div class="callout" style="background-color: #333; padding: 20px; border-left: 5px solid #31c458; color: #f0f0f0;">
+    <h2 style="color: #31c458;">Peer-Reviewed Conference and Symposium Presentations</h2>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Emma, V. E., Priddy, L. B., Tian, W. “Optimization of 3D Bio-printing Process Parameters of Composite Bone Scaffold for Tissue Engineering.” Southern Biomedical Engineering Conference (SBEC), New Orleans, LA, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., Bian, L., & Tian, W. “Privacy-preserving and Utility-aware Data Sharing Strategy for Process-Defect Modeling in Metal-based Additive Manufacturing.” IISE annual conference, New Orleans, LA, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, & Tian, W. “Sensing and Analytics in Advanced Manufacturing Systems.” IISE annual conference, New Orleans, LA, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., Bian, L., & Tian, W. “Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal based Additive Manufacturing.” Graduate Research Symposium at Mississippi State University, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., & Tian, W. “Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal based Additive Manufacturing.” INFORMS Annual Meeting, Indianapolis, USA, 2022.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Bian, L., & Tian, W. “In-situ Layer-wise Certification for Direct Energy Deposition Processes based on Melt Pool Morphology Dynamics Analysis.” Southeastern Additive Manufacturing Processes Symposium, Alabama, USA, 2021.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, “In-situ Layer-wise Certification for Direct Energy Deposition Processes.” 3MT at Mississippi State University, USA, 2021.</p>
+</div>
+## Poster Presentations
+
+<div class="callout" style="background-color: #333; padding: 20px; border-left: 5px solid #31c458; color: #f0f0f0;">
+    <h2 style="color: #31c458;">Poster Presentations</h2>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., & Tian, W. “Adaptive Thermal History De-identification for Privacy-preserving Process-defect Modeling of Metal Additive Manufacturing.” IISE annual conference, New Orleans, LA, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Emma, V. E.</span></strong>, <strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Tian, W., & Priddy, L. B. “Bioprinting Parameter Optimization for Polymer-Ceramic Composite Scaffolds for Bone Tissue Engineering.” Research That Matters in ISE at Mississippi State University, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Fullington, D., & Tian, W. “Adaptive Thermal History De-identification for Privacy-preserving Process-defect Modeling of Metal Additive Manufacturing.” Research Week Poster Competition, Mississippi State University, USA, 2023.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Tian, W. “Morphological Dynamics-based Anomaly Detection towards In-situ Layer-wise Certification for Directed Energy Deposition Processes.” INFORMS Annual Meeting in Indianapolis, 2022.</p>
+    
+    <p><strong><span style="color: #31c458;">Kailey, C.</span></strong>, <strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, Epps, E. V., Tian, W., & Priddy, L. B. “Evaluation of the printability of additively manufactured poly (lactic-co-glycolic acid) and nano-hydroxyapatite composite bone scaffolds.” 4th annual Summer Science and Engineering Symposium, Mississippi Academy of Sciences, 2022.</p>
+    
+    <p><strong><span style="color: #31c458;">Bappy, M. M.</span></strong>, & Tian, W. “In-situ Layer-wise certification for direct energy deposition processes based on melt pool morphology dynamics analysis.” Graduate Research Symposium at Mississippi State University, USA, 2021.</p>
+</div>
 
