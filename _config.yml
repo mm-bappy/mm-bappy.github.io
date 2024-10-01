@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Nora Loose"
+title                    : "Mahathir Mohammad Bappy"
 title_separator          : "-"
-name                     : "Nora Loose"
-description              : "Nora Loose's personal website"
-url                      : "https://noraloose.github.io" # should not end with /
+name                     : "Mahathir Mohammad Bappy"
+description              : "Mahathir Mohammad Bappy's personal website"
+url                      : "https://mm-bappy.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -50,14 +50,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "ia6pCY6o7bgdjYgiqIx3Ez3mUXQcl5lqbd6M8HkBwcI"
+google_site_verification : #"ia6pCY6o7bgdjYgiqIx3Ez3mUXQcl5lqbd6M8HkBwcI"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : "NoraLoose"
+linkedin:
+  username               : "mahathir-mohammad-bappy-b122a978"
 facebook:
   username               :
   app_id                 :
@@ -79,11 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nora Loose"
-  avatar           : "/assets/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning, Physical & computational oceanography, Mesoscale eddy parameterizations, Scientific software development, Uncertainty quantification, Data assimilation, Adjoint modeling, Ocean observing system design"
-  location         : "Boulder, Colorado"
-  email            : "nora@cworthy.org"
+  name             : "Mahathir Mohammad Bappy"
+  avatar           : "/assets/images/avatar_2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Assistant Professor, Industrial Engineering"
+  email            : "mmbappy@lsu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,26 +90,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NoraLoose"
+  github           : #"NoraLoose"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  "mahathir-mohammad-bappy-b122a978"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "NoraLoose"
+  twitter          : #"NoraLoose"
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : "0000-0002-3684-9634"
-
-
+  orcid            : #"0000-0002-3684-9634"
+  google_scholar   : "https://scholar.google.com/citations?user=FRV5XRUAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Mahathir-Bappy-2"
 # Reading Files
 include:
   - .htaccess
