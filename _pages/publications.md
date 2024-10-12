@@ -29,7 +29,7 @@ toc_sticky: true
 
   <!-- Journal Paper 1 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/publication_1.png" alt="Publication 1" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/Selected_research_1.JPG" alt="Publication 1" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         <strong>Mahathir Mohammad Bappy</strong>, Durant Fullington, Linkan Bian & Wenmeng Tian, 
@@ -44,7 +44,7 @@ toc_sticky: true
 
   <!-- Journal Paper 2 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/publication_2.png" alt="Publication 2" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/Selected_research_2.JPG" alt="Publication 2" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         <strong>Mahathir Mohammad Bappy</strong>, Chenang Liu, Linkan Bian & Wenmeng Tian, 
@@ -59,7 +59,7 @@ toc_sticky: true
 
   <!-- Journal Paper 3 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/publication_3.png" alt="Publication 3" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/Selected_research_3.JPG" alt="Publication 3" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Mehrnaz Noroozi Esfahani, <strong>Mahathir Mohammad Bappy</strong>, Linkan Bian & Wenmeng Tian, 
@@ -74,7 +74,7 @@ toc_sticky: true
 
   <!-- Journal Paper 4 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/publication_4.png" alt="Publication 4" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/Selected_research_4.JPG" alt="Publication 4" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Abdullah Al Mamun, <strong>Mahathir Mohammad Bappy</strong>, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, 
@@ -87,7 +87,6 @@ toc_sticky: true
     </div>
   </div>
 
-  <!-- Continue with Journal Papers 5 to 12 in the same format... -->
 
   <!-- Journal Paper 5 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
@@ -104,6 +103,107 @@ toc_sticky: true
   </div>
 
   <!-- Continue with the remaining Journal Papers following this pattern... -->
+<!-- Journal Paper 6 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_6.png" alt="Publication 6" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      <strong>Mahathir Mohammad Bappy</strong>, Key, J., Hossain, N. U. I., & Jaradat, R. (2022). 
+      <em>"Assessing the Social Impacts of Additive Manufacturing Using Hierarchical Evidential Reasoning Approach"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">Global Journal of Flexible Systems Management, 23(2), 201-220</span>.
+      <a href='https://doi.org/10.1007/s40171-021-00295-5' target='_blank'>
+        <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+      </a>
+    </p>
+  </div>
+</div>
+
+<!-- Journal Paper 7 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_7.png" alt="Publication 7" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      Rahman, S., <strong>Mahathir Mohammad Bappy</strong>, Govindan, K., Nur, F. (2021). 
+      <em>"Assessing Cyber Resilience of Additive Manufacturing Supply Chain Leveraging Data Fusion Technique"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">CIRP Journal of Manufacturing Science and Technology, 35, 911-928</span>.
+      <a href='https://doi.org/10.1016/j.cirpj.2021.09.008' target='_blank'>
+        <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+      </a>
+    </p>
+  </div>
+</div>
+
+<!-- Journal Paper 8 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_8.png" alt="Publication 8" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      <strong>Mahathir Mohammad Bappy</strong>, Ali, S. M., Kabir, G., Paul, S. K. (2019). 
+      <em>"Supply Chain Sustainability Assessment with Dempster-Shafer Evidence Theory: Implications in Cleaner Production"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">Journal of Cleaner Production (JCP), 237</span>, 117771.
+      <a href='https://doi.org/10.1016/j.jclepro.2019.117771' target='_blank'>
+        <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+      </a>
+    </p>
+  </div>
+</div>
+
+<!-- Journal Paper 9 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_9.png" alt="Publication 9" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      <strong>Mahathir Mohammad Bappy</strong>, Sayed, M. A. (2020). 
+      <em>"Reducing Patients Waiting Time Using the Six Sigma Methodology in a Radiology Department"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">Journal of Engineering Research, Innovation and Education (JERIE), 2(1&2), 32-41</span>.
+    </p>
+  </div>
+</div>
+
+<!-- Journal Paper 10 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_10.png" alt="Publication 10" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      <strong>Mahathir Mohammad Bappy</strong>, Musa, M. A., & Hossain, M. F. (2019). 
+      <em>"Productivity Improvement through Line Balancing - A Case Study in an Apparel Industry"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">Global Scientific Journals (GSJ), 7(2), 893-902</span>.
+      <a href='https://www.researchgate.net/profile/Md-Farhad-Hossain/publication/331638479_Productivity_Improvement_through_Line_Balancing-A_Case_Study_in_an_Apparel_Industry/links/5c84c33692851c6950680283/Productivity-Improvement-through-Line-Balancing-A-Case-Study-in-an-Apparel-Industry.pdf' target='_blank'>
+        <i class='fas fa-link' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i> Link
+      </a>
+    </p>
+  </div>
+</div>
+
+<!-- Journal Paper 11 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_11.png" alt="Publication 11" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      <strong>Mahathir Mohammad Bappy</strong>, Karim, R. (2015). 
+      <em>"Identification of Significant Factors for Value-in-Use Assessment of Product Service System in Business-to-Business Sector"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">International Journal of Advanced Multidisciplinary Research (IJAMR), 2(3), 16-27</span>.
+      <a href='https://ijarm.com/pdfcopy/mar2015/ijarm4.pdf' target='_blank'>
+        <i class='fas fa-link' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i> Link
+      </a>
+    </p>
+  </div>
+</div>
+
+<!-- Journal Paper 12 -->
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+  <img src="/assets/images/publication_12.png" alt="Publication 12" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div style="flex: 1; color: #F0F0F0;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      Fullington, D., Yangue, E., <strong>Mahathir Mohammad Bappy</strong>, Liu, C., & Tian, W. (2023). 
+      <em>"Leveraging Small-scale Datasets for Additive Manufacturing: Current Practice and Remaining Gaps"</em>, In 
+      <span style="font-style: italic; color: #AED6F1;">Journal of Manufacturing Systems</span>.
+      <a href='https://doi.org/10.1016/j.jmsy.2024.04.021' target='_blank'>
+        <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+      </a>
+    </p>
+  </div>
+</div>
 
 </div>
 
