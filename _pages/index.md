@@ -6,18 +6,19 @@ permalink: /
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #F39C12; border-radius: 10px;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #1A3D7C; border-radius: 10px; border: 4px solid #F39C12;">
   <!-- About Section -->
   <div style="color: #fff; flex: 1; margin-right: 20px;">
-    <h2 style="color: #fff; margin-top: 0;">About</h2>
+    <h2 style="color: #F39C12; margin-top: 0;">About</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
-      I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #AED6F1; text-decoration: none;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #AED6F1; text-decoration: none;">Louisiana State University (LSU)</a>. My research focuses on <strong>advanced sensing and analytics for systems informatics</strong>, <strong>privacy-preserving modeling</strong>, and <strong>expert AI collaboration</strong>. The primary applications of my work include <strong>smart manufacturing systems</strong>, <strong>cyber-physical security</strong>, <strong>energy systems</strong>, <strong>engineering education</strong>, and <strong>sustainability</strong>.
+      I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #AED6F1; text-decoration: none;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #AED6F1; text-decoration: none;">Louisiana State University (LSU)</a>. My research focuses on <strong>Advanced Sensing and Analytics for Systems Informatics</strong>, <strong>Privacy-Preserving Modeling</strong>, and <strong>Expert AI collaboration</strong>. The primary applications of my work include <strong>smart manufacturing systems</strong>, <strong>cyber-physical security</strong>, <strong>energy systems</strong>, <strong>engineering education</strong>, and <strong>sustainability</strong>.
     </p>
   </div>
   
   <!-- Profile Image -->
   <img src="/assets/images/Profile_pic.jpg" width="200px" height="auto" alt="Mahathir Mohammad Bappy" style="border-radius: 10px;" />
 </div>
+
 
 ## **Vacancy Notice**
 
