@@ -6,6 +6,8 @@ permalink: /academic/
 author_profile: true
 toc: true
 toc_label: "Research"
+toc_icon: "gear"
+toc_sticky: true
 ---
 
 <!-- Bio Section with Callout -->
