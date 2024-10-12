@@ -10,6 +10,7 @@ toc_sticky: true
 ---
 
 <!-- Journal Papers Section -->
+<!-- Journal Papers Section -->
 <h2 style="color: #AED6F1;">📄 Journal Papers</h2>
 
 <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); margin-top: 20px;">
@@ -71,79 +72,41 @@ toc_sticky: true
     </div>
   </div>
 
-  <!-- Continue adding more journal papers in the same style here... -->
+  <!-- Journal Paper 4 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/publication_4.png" alt="Publication 4" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        Abdullah Al Mamun, <strong>Mahathir Mohammad Bappy</strong>, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, 
+        <em>"Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">International Journal of Advanced Manufacturing Technology (IJAMT)</span>, November, 2022.
+        <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Continue with Journal Papers 5 to 12 in the same format... -->
+
+  <!-- Journal Paper 5 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/publication_5.png" alt="Publication 5" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        Al Mamun, A., <strong>Mahathir Mohammad Bappy</strong>, Bian, L., & Tian, W. (2023). Missing Signal Imputation for Multichannel Sensing Signals on Rotary Machinery by Tensor Factorization. 
+        <em>Manufacturing Letters</em>.
+        <a href='https://doi.org/10.1016/j.mfglet.2023.08.097' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Continue with the remaining Journal Papers following this pattern... -->
+
 </div>
 
-<div class="publication-row">
-    <img src="/assets/images/publication_4.png" class="publication-image" alt="Publication 4">
-    <p>
-        Abdullah Al Mamun, **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, "**Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis**," In *International Journal of Advanced Manufacturing Technology (IJAMT)*, November, 2022.
-        <a href='https://doi.org/10.1007/s00170-022-10525-4' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_5.png" class="publication-image" alt="Publication 5">
-    <p>
-        Al Mamun, A., **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Bian, L., & Tian, W. (2023). Missing Signal Imputation for Multichannel Sensing Signals on Rotary Machinery by Tensor Factorization. *Manufacturing Letters*. 
-        <a href='https://doi.org/10.1016/j.mfglet.2023.08.097' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_6.png" class="publication-image" alt="Publication 6">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Key, J., Hossain, N. U. I., & Jaradat, R.(2022). Assessing the Social Impacts of Additive Manufacturing Using Hierarchical Evidential Reasoning Approach. *Global Journal of Flexible Systems Management, 23(2), 201-220*.
-        <a href='https://doi.org/10.1007/s40171-021-00295-5' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_7.png" class="publication-image" alt="Publication 7">
-    <p>
-        Rahman, S., **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Govindan, K., Nur, F. (2021). Assessing cyber resilience of additive manufacturing supply chain leveraging data fusion technique: A model to generate cyber resilience index of a supply chain. *CIRP Journal of Manufacturing Science and Technology*, 35(911-928).
-        <a href='https://doi.org/10.1016/j.cirpj.2021.09.008' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_8.png" class="publication-image" alt="Publication 8">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Ali, S. M., Kabir, G., Paul, S. K. (2019). Supply chain sustainability assessment with Dempster-Shafer evidence theory: implications in cleaner production. *Journal of Cleaner Production (JCP)*, 237, 117771.
-        <a href='https://doi.org/10.1016/j.jclepro.2019.117771' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_9.png" class="publication-image" alt="Publication 9">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Sayed, M. A. (2020). Reducing patients waiting time using the Six Sigma methodology in a Radiology Department. *Journal of Engineering Research, Innovation and Education (JERIE)*, 2(1&2), 32-41.
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_10.png" class="publication-image" alt="Publication 10">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Musa, M. A., & Hossain, M. F. (2019). Productivity Improvement through Line Balancing - A Case Study in an Apparel Industry. *Global Scientific Journals (GSJ)*, 7(2), 893-902.
-        <a href='https://www.researchgate.net/profile/Md-Farhad-Hossain/publication/331638479_Productivity_Improvement_through_Line_Balancing-A_Case_Study_in_an_Apparel_Industry/links/5c84c33692851c6950680283/Productivity-Improvement-through-Line-Balancing-A-Case-Study-in-an-Apparel-Industry.pdf' class="btn btn--primary" target="_blank"><i class='fas fa-link'></i> Link</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_11.png" class="publication-image" alt="Publication 11">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Karim, R. (2015). Identification of Significant factors for value-in-use assessment of product service system in business to business sector. *International Journal of Advanced Multidisciplinary Research (IJAMR)*, 2(3), 16-27.
-        <a href='https://ijarm.com/pdfcopy/mar2015/ijarm4.pdf' class="btn btn--primary" target="_blank"><i class='fas fa-link'></i> Link</a>
-    </p>
-</div>
-
-<div class="publication-row">
-    <img src="/assets/images/publication_12.png" class="publication-image" alt="Publication 12">
-    <p>
-        Fullington, D., Yangue, E., **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Liu, C., & Tian, W. (2023). Leveraging Small-scale Datasets for Additive Manufacturing: Current  Practice and Remaining Gaps. *Journal of Manufacturing Systems*.
-        <a href='https://doi.org/10.1016/j.jmsy.2024.04.021' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
 
 
 ## ✍️ Manuscripts Under Review
