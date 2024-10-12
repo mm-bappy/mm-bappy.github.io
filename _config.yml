@@ -18,7 +18,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 180
+words_per_minute         : 210
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -81,36 +81,15 @@ analytics:
 author:
   name             : "Mahathir Mohammad Bappy"
   avatar           : "/assets/images/avatar_2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor, Industrial Engineering"
+  bio              : "Assistant Professor, Industrial Engineering, Louisiana State University"
   location         : "Baton Rouge, LA"
   email            : "mmbappy@lsu.edu"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"NoraLoose"
-  gitlab           :
-  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :  "mahathir-mohammad-bappy-b122a978"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : #"NoraLoose"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : #"0000-0002-3684-9634"
   google_scholar   : "https://scholar.google.com/citations?user=FRV5XRUAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Mahathir-Bappy-2"
+  researchgate     : "Mahathir-Bappy-2"
 # Reading Files
 include:
   - .htaccess
