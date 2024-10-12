@@ -18,7 +18,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 210
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -68,7 +68,11 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  #links: # An array of links to social media profiles
+  links:
+    - "https://scholar.google.com/citations?user=FRV5XRUAAAAJ&hl=en"
+    - "https://www.researchgate.net/profile/Mahathir-Bappy-2"
+    - "https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978/"
 
 # Analytics
 analytics:
