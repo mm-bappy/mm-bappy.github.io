@@ -6,19 +6,18 @@ permalink: /
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; padding: 20px; background-color: #2C3E50; border-radius: 10px;">
-  <!-- Profile Image -->
-  <img src="/assets/images/Profile_pic.jpg" width="200px" height="auto" alt="Mahathir Mohammad Bappy" style="border-radius: 50%; margin-right: 20px;" />
-  
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #F1C40F; border-radius: 10px;">
   <!-- About Section -->
-  <div style="color: #fff;">
+  <div style="color: #fff; flex: 1; margin-right: 20px;">
     <h2 style="color: #fff; margin-top: 0;">About</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #1C2833;">
       I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #1ABC9C; text-decoration: none;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #1ABC9C; text-decoration: none;">Louisiana State University (LSU)</a>. My research focuses on <strong>advanced sensing and analytics for systems informatics</strong>, <strong>privacy-preserving modeling</strong>, and <strong>expert AI collaboration</strong>. The primary applications of my work include <strong>smart manufacturing systems</strong>, <strong>cyber-physical security</strong>, <strong>energy systems</strong>, <strong>engineering education</strong>, and <strong>sustainability</strong>.
     </p>
   </div>
+  
+  <!-- Profile Image -->
+  <img src="/assets/images/Profile_pic.jpg" width="200px" height="auto" alt="Mahathir Mohammad Bappy" style="border-radius: 10px;" />
 </div>
-
 
 
 ## **Vacancy Notice**
