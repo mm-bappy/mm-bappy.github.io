@@ -3,7 +3,7 @@ title: "Publications"
 layout: archive
 sitemap: true
 permalink: /publications/
-author_profile: false
+author_profile: true
 toc_label: "Publication Items"
 classes: wide
 ---
