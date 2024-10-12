@@ -75,7 +75,7 @@ author_profile: true
 
 
 <!-- Selected Research Section -->
-<div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; margin-top: 20px;">
+<div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); margin-top: 20px;">
   <h2 style="color: #AED6F1;">Selected Research</h2>
 
   <!-- Google Scholar and ResearchGate Buttons at the top -->
@@ -101,7 +101,7 @@ author_profile: true
       </p>
       <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
-          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
         </a>
       </div>
     </div>
@@ -118,8 +118,7 @@ author_profile: true
       </p>
       <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
-          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
-        </a>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
         </a>
       </div>
     </div>
@@ -136,7 +135,7 @@ author_profile: true
       </p>
       <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
-          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
         </a>
       </div>
     </div>
@@ -153,13 +152,13 @@ author_profile: true
       </p>
       <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
-          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
-        </a>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
         </a>
       </div>
     </div>
   </div>
 </div>
+
 
 ## 🎖️ **<span style="color:#ff5733;">Honors and Awards</span>**
 
