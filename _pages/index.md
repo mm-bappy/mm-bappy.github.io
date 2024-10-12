@@ -30,22 +30,35 @@ author_profile: true
   </div>
 </div>
 
-## Recent News: 
-#### **June 2024:**
-- **Excited** to attend the **North American Manufacturing Research Conference (NAMRC)-52** for the first time! I am going to present our research on _"Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis"_ in-person at NAMRC, Knoxville, TN.
+<div style="display: flex; flex-direction: column; padding: 20px; background-color: #252A34; border-radius: 10px; border: 2px solid #76C7C0; margin-top: 20px;">
+  <!-- Recent News Section -->
+  <h2 style="color: #76C7C0; margin-top: 0;">Recent News</h2>
+  
+  <h4 style="color: #76C7C0;">June 2024:</h4>
+  <ul style="color: #F0F0F0; font-size: 1.1rem;">
+    <li><span style="font-style: italic; color: #76C7C0;">🎉 Excited</span> to attend the <span style="color: #AED6F1;">North American Manufacturing Research Conference (NAMRC)-52</span> for the first time! I am going to present our research on <span style="font-style: italic;">"Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis"</span> in-person at NAMRC, Knoxville, TN.</li>
+  </ul>
 
-#### **April 2024:**
-- **EXCITING NEWS**: I'm delighted to share that I have **successfully defended my Ph.D. dissertation**! What an amazing journey it's been!
-- Such a great feeling! I am thrilled to announce that I have been honored with the **ISE Outstanding Graduate Student Researcher award, 2023-2024**!
-- Attended as an **Evaluator** in the undergraduate research symposium at Mississippi State University.
+  <h4 style="color: #76C7C0;">April 2024:</h4>
+  <ul style="color: #F0F0F0; font-size: 1.1rem;">
+    <li><span style="font-style: italic; color: #76C7C0;">🌟 Exciting News:</span> I'm delighted to share that I have <span style="color: #AED6F1;">successfully defended my Ph.D. dissertation</span>! What an amazing journey it's been!</li>
+    <li>Such a great feeling! I am thrilled to announce that I have been honored with the <span style="color: #AED6F1;">ISE Outstanding Graduate Student Researcher Award, 2023-2024</span>!</li>
+    <li>Attended as an <span style="font-style: italic; color: #76C7C0;">Evaluator</span> in the undergraduate research symposium at Mississippi State University.</li>
+  </ul>
 
-#### **March 2024:**
-- Attended as a **Judge** in the Mississippi Region V Science & Engineering Fair, 2024.
-- Excited to attend the **IISE regional conference, 2024**!
-- **Conference papers accepted!** Two papers have been accepted at the **52nd SME North American Manufacturing Research Conference (NAMRC 52, 2024)**.
+  <h4 style="color: #76C7C0;">March 2024:</h4>
+  <ul style="color: #F0F0F0; font-size: 1.1rem;">
+    <li>Attended as a <span style="font-style: italic; color: #76C7C0;">Judge</span> in the Mississippi Region V Science & Engineering Fair, 2024.</li>
+    <li>Excited to attend the <span style="color: #AED6F1;">IISE regional conference, 2024</span>!</li>
+    <li><span style="font-style: italic; color: #76C7C0;">📑 Conference papers accepted!</span> Two papers have been accepted at the <span style="color: #AED6F1;">52nd SME North American Manufacturing Research Conference (NAMRC 52, 2024)</span>.</li>
+  </ul>
 
-#### **December 2023:**
-- Such a great feeling! Once again, as an **Independent Instructor of Record**, I conducted a course (_IE 3323: Manufacturing Processes_) in the fall 2023 semester at Mississippi State University and received excellent feedback from my students.
+  <h4 style="color: #76C7C0;">December 2023:</h4>
+  <ul style="color: #F0F0F0; font-size: 1.1rem;">
+    <li>Such a great feeling! Once again, as an <span style="font-style: italic; color: #76C7C0;">Independent Instructor of Record</span>, I conducted a course (IE 3323: Manufacturing Processes) in the fall 2023 semester at Mississippi State University and received excellent feedback from my students.</li>
+  </ul>
+</div>
+
 
 
 ---
