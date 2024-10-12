@@ -78,21 +78,33 @@ author_profile: true
 <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; margin-top: 20px;">
   <h2 style="color: #AED6F1;">Selected Research</h2>
 
+  <!-- Google Scholar and ResearchGate Buttons at the top -->
+  <div style="display: flex; gap: 20px; margin-bottom: 20px;">
+    <a href="https://scholar.google.com/citations?user=FRV5XRUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn" style="background-color: #4285F4; display: flex; align-items: center; color: white; padding: 10px 15px; border-radius: 5px;">
+      <img src="/assets/images/google-scholar.svg" alt="Google Scholar Icon" style="width: 20px; margin-right: 10px;">
+      Google Scholar
+    </a>
+    <a href="https://www.researchgate.net/profile/Mahathir-Bappy-2" target="_blank" class="btn" style="background-color: #00CCBB; display: flex; align-items: center; color: white; padding: 10px 15px; border-radius: 5px;">
+      <img src="/assets/images/researchgate.svg" alt="ResearchGate Icon" style="width: 20px; margin-right: 10px;">
+      ResearchGate
+    </a>
+  </div>
+
   <!-- Research 1 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/Selected_research_1.JPG" alt="Publication Image 1" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/Selected_research_1.JPG" alt="Publication Image 1" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         <strong>Mahathir Mohammad Bappy</strong>, Durant Fullington, Linkan Bian & Wenmeng Tian, 
         <em>"Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">Manufacturing Letters</span>, April, 2023.
       </p>
-      <div>
+      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:5u0T22ixRlsJ:scholar.google.com/&output=citation' target='_blank' class='btn'>
-          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:5u0T22ixRlsJ:scholar.google.com/&output=citation' target='_blank'>
+          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
         </a>
       </div>
     </div>
@@ -100,19 +112,19 @@ author_profile: true
 
   <!-- Research 2 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/selected_research_2.JPG" alt="Publication Image 2" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_2.JPG" alt="Publication Image 2" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         <strong>Mahathir Mohammad Bappy</strong>, Chenang Liu, Linkan Bian & Wenmeng Tian, 
         <em>"Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">ASME Journal of Manufacturing Science and Engineering (JMSE)</span>, July, 2022.
       </p>
-      <div>
+      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:0rys9NGZyBYJ:scholar.google.com/&output=citation' target='_blank' class='btn'>
-          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:0rys9NGZyBYJ:scholar.google.com/&output=citation' target='_blank'>
+          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
         </a>
       </div>
     </div>
@@ -120,19 +132,19 @@ author_profile: true
 
   <!-- Research 3 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/selected_research_3.JPG" alt="Publication Image 3" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_3.JPG" alt="Publication Image 3" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Mehrnaz Noroozi Esfahani, <strong>Mahathir Mohammad Bappy</strong>, Linkan Bian & Wenmeng Tian, 
         <em>"In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">Journal of Manufacturing Processes (JMP)</span>, March, 2022.
       </p>
-      <div>
+      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:4-FbGd4Lv7kJ:scholar.google.com/&output=citation' target='_blank' class='btn'>
-          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:4-FbGd4Lv7kJ:scholar.google.com/&output=citation' target='_blank'>
+          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
         </a>
       </div>
     </div>
@@ -140,33 +152,23 @@ author_profile: true
 
   <!-- Research 4 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/selected_research_4.JPG" alt="Publication Image 4" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_4.JPG" alt="Publication Image 4" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Abdullah Al Mamun, <strong>Mahathir Mohammad Bappy</strong>, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, 
         <em>"Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">International Journal of Advanced Manufacturing Technology (IJAMT)</span>, November, 2022.
       </p>
-      <div>
+      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+          <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:WYq9sH4CGQ8J:scholar.google.com/&output=citation' target='_blank' class='btn'>
-          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:WYq9sH4CGQ8J:scholar.google.com/&output=citation' target='_blank'>
+          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
         </a>
       </div>
     </div>
   </div>
-</div>
-
-<!-- Google Scholar and ResearchGate Buttons -->
-<div style="margin-top: 30px;">
-  <a href="https://scholar.google.com/citations?user=FRV5XRUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn" style="background-color: #4285F4; color: white; padding: 10px 15px; border-radius: 5px; margin-right: 10px;">
-    <i class="fab fa-google"></i> Google Scholar
-  </a>
-  <a href="https://www.researchgate.net/profile/Mahathir-Bappy-2" target="_blank" class="btn" style="background-color: #00CCBB; color: white; padding: 10px 15px; border-radius: 5px;">
-    <i class="fab fa-researchgate"></i> ResearchGate
-  </a>
 </div>
 
 ## 🎖️ **<span style="color:#ff5733;">Honors and Awards</span>**
