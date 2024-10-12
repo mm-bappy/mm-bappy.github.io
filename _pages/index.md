@@ -73,7 +73,6 @@ author_profile: true
   </div>
 </div>
 
-
 <!-- Selected Research Section -->
 <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); margin-top: 20px;">
   <h2 style="color: #AED6F1;">Selected Research</h2>
@@ -99,7 +98,7 @@ author_profile: true
         <em>"Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">Manufacturing Letters</span>, April, 2023.
         <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
         </a>
       </p>
     </div>
@@ -114,7 +113,7 @@ author_profile: true
         <em>"Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">ASME Journal of Manufacturing Science and Engineering (JMSE)</span>, July, 2022.
         <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
         </a>
       </p>
     </div>
@@ -129,7 +128,7 @@ author_profile: true
         <em>"In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">Journal of Manufacturing Processes (JMP)</span>, March, 2022.
         <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
         </a>
       </p>
     </div>
@@ -144,7 +143,7 @@ author_profile: true
         <em>"Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">International Journal of Advanced Manufacturing Technology (IJAMT)</span>, November, 2022.
         <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
         </a>
       </p>
     </div>
@@ -152,18 +151,23 @@ author_profile: true
 </div>
 
 
-## 🎖️ **<span style="color:#ff5733;">Honors and Awards</span>**
+<!-- Honors and Awards Section -->
+<div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-top: 20px;">
+  <h2 style="color: #ff5733; font-size: 1.5rem;">🎖️ Honors and Awards</h2>
+  <ul style="list-style-type: none; padding-left: 0; color: #F0F0F0; font-size: 1.1rem; line-height: 1.6;">
+    <li>🏅 <strong>ISE</strong> *“Outstanding Graduate Student Researcher”* award, <span style="color:#2E8B57;">2023-2024</span>.</li>
+    <li>🏆 *“Best Poster Award”* at <strong>Research Week Poster Competition</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2023</span>.</li>
+    <li>🎖️ *“Best Poster Award”* at <strong>Research That Matters</strong> in <strong>ISE - Poster Competition</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2023</span>.</li>
+    <li>🥈 <strong>First Runner-up of Best Posters</strong> at <strong>Graduate Research Symposium</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2023</span>.</li>
+    <li>🎓 *“Selected for the Doctoral Student Colloquium”*, <strong>IISE, USA</strong>, <span style="color:#2E8B57;">2023</span>.</li>
+    <li>🥈 <strong>First Runner-up of Best Posters</strong> at <strong>Graduate Research Symposium</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2022</span>.</li>
+    <li>🚀 *“Graduate Student Travel Assistance Grants (TAGGS)”* by <strong>The Graduate School</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2022</span>.</li>
+    <li>🎖️ *“INFORMS Student Chapter Magna Cum Laude Award”* at <strong>INFORMS Annual Meeting</strong> in Indianapolis, USA, <span style="color:#2E8B57;">2022</span>.</li>
+    <li>🎓 *“Manufacturing & Design Student Sponsorship Award”* by <strong>IISE, USA</strong>, <span style="color:#2E8B57;">2021</span>.</li>
+    <li>🥈 <strong>First Runner-up of Best Posters</strong> at <strong>Graduate Research Symposium</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2021</span>.</li>
+    <li>📊 *“Research Project Funding Award”* at <strong>Research Centre</strong> in <strong>SUST, Bangladesh</strong>, <span style="color:#2E8B57;">2019</span>.</li>
+    <li>🎓 *“University Merit Scholarship”* at <strong>Shajalal University of Science and Technology, Bangladesh</strong>, <span style="color:#2E8B57;">2009-2013</span>.</li>
+  </ul>
+</div>
 
-- **ISE** *“Outstanding Graduate Student Researcher”* award, **<span style="color:#2E8B57;">2023-2024</span>.**
-- 🏆 *“Best Poster Award”* at **Research Week Poster Competition** in Mississippi State University, USA, **<span style="color:#2E8B57;">2023</span>.**
-- 🏅 *“Best Poster Award”* at **Research That Matters** in **ISE - Poster Competition** in Mississippi State University, USA, **<span style="color:#2E8B57;">2023</span>.**
-- 🥈 **First Runner-up of Best Posters** at **Graduate Research Symposium** in Mississippi State University, USA, **<span style="color:#2E8B57;">2023</span>.**
-- 🎓 *“Selected for the Doctoral Student Colloquium”*, **IISE, USA**, **<span style="color:#2E8B57;">2023</span>.**
-- 🥈 **First Runner-up of Best Posters** at **Graduate Research Symposium** in Mississippi State University, USA, **<span style="color:#2E8B57;">2022</span>.**
-- 🚀 *“Graduate Student Travel Assistance Grants (TAGGS)”* by **The Graduate School** in Mississippi State University, USA, **<span style="color:#2E8B57;">2022</span>.**
-- 🎖️ *“INFORMS Student Chapter Magna Cum Laude Award”* at **INFORMS Annual Meeting** in Indianapolis, USA, **<span style="color:#2E8B57;">2022</span>.**
-- 🎓 *“Manufacturing & Design Student Sponsorship Award”* by **IISE, USA**, **<span style="color:#2E8B57;">2021</span>.**
-- 🥈 **First Runner-up of Best Posters** at **Graduate Research Symposium** in Mississippi State University, USA, **<span style="color:#2E8B57;">2021</span>.**
-- 📊 *“Research Project Funding Award”* at **Research Centre** in **SUST, Bangladesh**, **<span style="color:#2E8B57;">2019</span>.**
-- 🎓 *“University Merit Scholarship”* at **Shajalal University of Science and Technology, Bangladesh**, **<span style="color:#2E8B57;">2009-2013</span>.**
 
