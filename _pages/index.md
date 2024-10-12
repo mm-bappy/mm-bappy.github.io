@@ -30,38 +30,47 @@ author_profile: true
   </div>
 </div>
 
-<div style="display: flex; flex-direction: column; padding: 20px; background-color: #252A34; border-radius: 10px; border: 2px solid #76C7C0; margin-top: 20px;">
-  <!-- Recent News Section -->
-  <h2 style="color: #76C7C0; margin-top: 0;">Recent News</h2>
+<!-- Recent News Section -->
+<div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 255, 0.2); margin-top: 20px;">
+  <h2 style="color: #1ABC9C; margin-top: 0;">Recent News</h2>
   
-  <h4 style="color: #76C7C0;">June 2024:</h4>
-  <ul style="color: #F0F0F0; font-size: 1.1rem;">
-    <li><span style="font-style: italic; color: #76C7C0;">🎉 Excited</span> to attend the <span style="color: #AED6F1;">North American Manufacturing Research Conference (NAMRC)-52</span> for the first time! I am going to present our research on <span style="font-style: italic;">"Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis"</span> in-person at NAMRC, Knoxville, TN.</li>
-  </ul>
+  <!-- June 2024 Callout -->
+  <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 255, 0.2); margin-bottom: 15px;">
+    <h4 style="color: #1ABC9C;">June 2024:</h4>
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
+      <span style="font-style: italic; color: #1ABC9C;">🎉 Excited</span> to attend the <span style="color: #AED6F1;">North American Manufacturing Research Conference (NAMRC)-52</span> for the first time! I am going to present our research on <span style="font-style: italic;">"Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis"</span> in-person at NAMRC, Knoxville, TN.
+    </p>
+  </div>
 
-  <h4 style="color: #76C7C0;">April 2024:</h4>
-  <ul style="color: #F0F0F0; font-size: 1.1rem;">
-    <li><span style="font-style: italic; color: #76C7C0;">🌟 Exciting News:</span> I'm delighted to share that I have <span style="color: #AED6F1;">successfully defended my Ph.D. dissertation</span>! What an amazing journey it's been!</li>
-    <li>Such a great feeling! I am thrilled to announce that I have been honored with the <span style="color: #AED6F1;">ISE Outstanding Graduate Student Researcher Award, 2023-2024</span>!</li>
-    <li>Attended as an <span style="font-style: italic; color: #76C7C0;">Evaluator</span> in the undergraduate research symposium at Mississippi State University.</li>
-  </ul>
+  <!-- April 2024 Callout -->
+  <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 0, 0.2); margin-bottom: 15px;">
+    <h4 style="color: #F1C40F;">April 2024:</h4>
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
+      <span style="font-style: italic; color: #F1C40F;">🌟 Exciting News:</span> I'm delighted to share that I have <span style="color: #AED6F1;">successfully defended my Ph.D. dissertation</span>! What an amazing journey it's been!<br>
+      Such a great feeling! I am thrilled to announce that I have been honored with the <span style="color: #AED6F1;">ISE Outstanding Graduate Student Researcher Award, 2023-2024</span>!<br>
+      Attended as an <span style="font-style: italic; color: #F1C40F;">Evaluator</span> in the undergraduate research symposium at Mississippi State University.
+    </p>
+  </div>
 
-  <h4 style="color: #76C7C0;">March 2024:</h4>
-  <ul style="color: #F0F0F0; font-size: 1.1rem;">
-    <li>Attended as a <span style="font-style: italic; color: #76C7C0;">Judge</span> in the Mississippi Region V Science & Engineering Fair, 2024.</li>
-    <li>Excited to attend the <span style="color: #AED6F1;">IISE regional conference, 2024</span>!</li>
-    <li><span style="font-style: italic; color: #76C7C0;">📑 Conference papers accepted!</span> Two papers have been accepted at the <span style="color: #AED6F1;">52nd SME North American Manufacturing Research Conference (NAMRC 52, 2024)</span>.</li>
-  </ul>
+  <!-- March 2024 Callout -->
+  <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 255, 0.2); margin-bottom: 15px;">
+    <h4 style="color: #1ABC9C;">March 2024:</h4>
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
+      Attended as a <span style="font-style: italic; color: #1ABC9C;">Judge</span> in the Mississippi Region V Science & Engineering Fair, 2024.<br>
+      Excited to attend the <span style="color: #AED6F1;">IISE regional conference, 2024</span>!<br>
+      <span style="font-style: italic; color: #1ABC9C;">📑 Conference papers accepted!</span> Two papers have been accepted at the <span style="color: #AED6F1;">52nd SME North American Manufacturing Research Conference (NAMRC 52, 2024)</span>.
+    </p>
+  </div>
 
-  <h4 style="color: #76C7C0;">December 2023:</h4>
-  <ul style="color: #F0F0F0; font-size: 1.1rem;">
-    <li>Such a great feeling! Once again, as an <span style="font-style: italic; color: #76C7C0;">Independent Instructor of Record</span>, I conducted a course (IE 3323: Manufacturing Processes) in the fall 2023 semester at Mississippi State University and received excellent feedback from my students.</li>
-  </ul>
+  <!-- December 2023 Callout -->
+  <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 165, 0, 0.2);">
+    <h4 style="color: #FF851B;">December 2023:</h4>
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
+      Such a great feeling! Once again, as an <span style="font-style: italic; color: #FF851B;">Independent Instructor of Record</span>, I conducted a course (IE 3323: Manufacturing Processes) in the fall 2023 semester at Mississippi State University and received excellent feedback from my students.
+    </p>
+  </div>
 </div>
 
-
-
----
 ## Selected Research
 
 <a href="https://scholar.google.com/citations?hl=en&user=FRV5XRUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn btn--mcw" style="background-color: #4285F4;"><i class="fas fa-graduation-cap"></i><span> Google Scholar</span></a>
