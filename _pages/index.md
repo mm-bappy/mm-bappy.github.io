@@ -6,12 +6,12 @@ permalink: /
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #252A34; border-radius: 10px; border: 4px solid #F39C12;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #252A34; border-radius: 10px; border: 4px solid #F1C40F;">
   <!-- About Section -->
   <div style="color: #fff; flex: 1; margin-right: 20px;">
-    <h2 style="color: #F39C12; margin-top: 0;">About</h2>
+    <h2 style="color: #F1C40F; margin-top: 0;">About</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
-      I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #AED6F1; text-decoration: none;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #AED6F1; text-decoration: none;">Louisiana State University (LSU)</a>. My research focuses on <strong>Advanced Sensing and Analytics for Systems Informatics</strong>, <strong>pPrivacy-Preserving Modeling</strong>, and <strong>Expert AI Collaboration</strong>. The primary applications of my work include <strong>Smart Manufacturing Systems</strong>, <strong>Cyber-Physical Security</strong>, <strong>Energy Systems</strong>, <strong>Engineering Education</strong>, and <strong>sustainability</strong>.
+      I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #AED6F1; text-decoration: none;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #AED6F1; text-decoration: none;">Louisiana State University (LSU)</a>. My research focuses on <strong>Advanced Sensing and Analytics for Systems Informatics</strong>, <strong>Privacy-Preserving Modeling</strong>, and <strong>Expert AI Collaboration</strong>. The primary applications of my work include <strong>Smart Manufacturing Systems</strong>, <strong>Cyber-Physical Security</strong>, <strong>Energy Systems</strong>, <strong>Engineering Education</strong>, and <strong>Sustainability</strong>.
     </p>
   </div>
   
@@ -26,7 +26,7 @@ author_profile: true
     <h2 style="color: #FF851B; margin-top: 0;">Vacancy Notice</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
       <strong>🔴 AnalytIQ Lab is Looking for a Ph.D. Candidates for Spring 2025 or Fall 2025! 🔴</strong><br><br>
-      We have multiple fully funded openings for the Ph.D. program. If you have experience in <strong>Machine Learning</strong>, <strong>Data Analytics</strong>, <strong>Advanced Manufacturing</strong>, <strong>Privacy-Preserving Machine Learning</strong> (such as <strong>Federated Learning</strong>), <strong>Computer Vision</strong>, or <strong>Scientific ML</strong>, or if you are deeply interested in these topics, send an email to <a href="mailto:mmbappy@lsu.edu" style="color: #AED6F1; text-decoration: none;">mmbappy@lsu.edu</a> with your updated <strong>CV</strong> and a <strong>short description of your research experience</strong> (if any) or <strong>future research plans</strong>.<br><br>
+      We have multiple fully funded openings for the Ph.D. program. If you have experience in <strong>Machine Learning</strong>, <strong>Data Analytics</strong>, <strong>Advanced Manufacturing</strong>, <strong>Privacy-Preserving Machine Learning</strong> (such as <strong>Federated Learning</strong>), <strong>Computer Vision</strong>, or <strong>Scientific ML</strong>, or if you are deeply interested in these topics, send an email to <a href="mailto:mmbappy@lsu.edu" style="color: #AED6F1; text-decoration: none;">mmbappy@lsu.edu</a> with your updated <strong>CV</strong> and a <strong>short description of your research experience</strong> (if any) or <strong>future research plans</strong>.<br>
       For any research collaboration inquiries or highly interested undergraduate students, please check the <strong>Research Section</strong>.
     </p>
   </div>
