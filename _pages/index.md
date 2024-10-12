@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <!-- About Section -->
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #2D2F39; border-radius: 10px; border: 1px solid #F1C40F;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #2D2F39; border-radius: 10px; border: 1px solid #B68F1B;">
   <div style="color: #fff; flex: 1; margin-right: 20px;">
     <h2 style="color: #F1C40F; margin-top: 0;">About</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
@@ -20,14 +20,12 @@ author_profile: true
 </div>
 
 <!-- Vacancy Notice Section -->
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #2D2F39; border-radius: 10px; border: 1px solid #FF851B; margin-top: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #2D2F39; border-radius: 10px; border: 1px solid #CC6A22; margin-top: 20px;">
   <div style="color: #fff; flex: 1; margin-right: 20px;">
     <h2 style="color: #FF851B; margin-top: 0;">Vacancy Notice</h2>
     <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
       <strong>🔴 AnalytIQ Lab is Looking for a Ph.D. Candidates for Spring 2025 or Fall 2025! 🔴</strong><br><br>
       We have multiple fully funded openings for the Ph.D. program. If you have experience in <strong>Machine Learning</strong>, <strong>Data Analytics</strong>, <strong>Advanced Manufacturing</strong>, <strong>Privacy-Preserving Machine Learning</strong> (such as <strong>Federated Learning</strong>), <strong>Computer Vision</strong>, or <strong>Scientific ML</strong>, or if you are deeply interested in these topics, send an email to <a href="mailto:mmbappy@lsu.edu" style="color: #AED6F1; text-decoration: none;">mmbappy@lsu.edu</a> with your updated <strong>CV</strong> and a <strong>short description of your research experience</strong> (if any) or <strong>future research plans</strong>.
-      <!--- For any research collaboration inquiries or highly interested undergraduate students, please check the <strong>Research Section</strong>. -->
-    </p>
   </div>
 </div>
 
