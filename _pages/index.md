@@ -103,9 +103,6 @@ author_profile: true
         <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
           <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:5u0T22ixRlsJ:scholar.google.com/&output=citation' target='_blank'>
-          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
-        </a>
       </div>
     </div>
   </div>
@@ -123,8 +120,6 @@ author_profile: true
         <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
           <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:0rys9NGZyBYJ:scholar.google.com/&output=citation' target='_blank'>
-          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
         </a>
       </div>
     </div>
@@ -143,9 +138,6 @@ author_profile: true
         <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
           <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:4-FbGd4Lv7kJ:scholar.google.com/&output=citation' target='_blank'>
-          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
-        </a>
       </div>
     </div>
   </div>
@@ -163,8 +155,6 @@ author_profile: true
         <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
           <img src='/assets/images/doi-icon.png' alt='DOI Icon' style="width: 24px;">
         </a>
-        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:WYq9sH4CGQ8J:scholar.google.com/&output=citation' target='_blank'>
-          <img src='/assets/images/text-x-bibtex.svg' alt="BibTeX Icon" style="width: 24px;">
         </a>
       </div>
     </div>
