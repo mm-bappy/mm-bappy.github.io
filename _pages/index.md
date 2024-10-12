@@ -6,12 +6,35 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/Profile_pic.jpg" width="340px" alt="mahathir-bappy" align="right" padding="20px" />
+<section class="section">
+  <div class="container">
+    
+    <!-- Start of Callout Section -->
+    <div class="card" style="background-color: #2e3b4e;" data-aos="fade-up">
+      <div class="card-content">
+        <div class="columns is-vcentered">
+          
+          <!-- Image Column -->
+          <div class="column is-one-third" data-aos="zoom-in">
+            <figure class="image is-256x256">
+              <img src="/assets/images/Profile_pic.jpg" alt="mahathir-bappy" style="border-radius: 50%; max-width: 256px;">
+            </figure>
+          </div>
 
+          <!-- About Section Column -->
+          <div class="column">
+            <h2 class="title has-text-white" style="color: #b3cdd1;">About</h2>
+            <p class="content has-text-white" style="text-align: justify;">
+              I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #b3cdd1;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #b3cdd1;">Louisiana State University (LSU)</a>. My research focuses on <strong>advanced sensing and analytics for systems informatics</strong>, <strong>privacy-preserving modeling</strong>, and <strong>expert AI collaboration</strong>. The primary applications of my work include <strong>smart manufacturing systems</strong>, <strong>cyber-physical security</strong>, <strong>energy systems</strong>, <strong>engineering education</strong>, and <strong>sustainability</strong>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End of Callout Section -->
 
-## About
-
-I am an **Assistant Professor** in the [Mechanical and Industrial Engineering Department](https://www.lsu.edu/eng/mie/) at [Louisiana State University (LSU)](https://www.lsu.edu/). My research focuses on **advanced sensing and analytics for systems informatics**, **privacy-preserving modeling**, and **expert AI collaboration**. The primary applications of my work include **smart manufacturing systems**, **cyber-physical security**, **energy systems**, **engineering education**, and **sustainability**.
+  </div>
+</section>
 
 
 ## **Vacancy Notice**
