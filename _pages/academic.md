@@ -54,3 +54,25 @@ toc_sticky: true
     <li style="margin-bottom: 10px;">📄 Reviewer for <a href="https://journals.sust.edu/jerie/" style="color: #AED6F1; text-decoration: none;">Journal of Engineering Research, Innovation and Education (JERIE)</a></li>
   </ul>
 </div>
+
+## 🌐 Professional Affiliations
+
+<div class="callout-box" style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 165, 0, 0.2); margin-top: 20px;">
+  <ul style="list-style-type: none; padding-left: 0; font-size: 1.1rem; line-height: 1.6; color: #F0F0F0;">
+    <li style="margin-bottom: 10px;">🌟 <strong style="color: #F1C40F;">Site Leader</strong> at the <a href="https://www.mvc.msstate.edu/about/" style="color: #AED6F1; text-decoration: none;">Maroon Volunteer Center (MVC)</a>, Mississippi State University, USA, 2022 - Present.</li>
+    <li style="margin-bottom: 10px;">👥 <strong style="color: #F1C40F;">Vice President</strong> at the <a href="https://informsmsstate.wordpress.com/" style="color: #AED6F1; text-decoration: none;">INFORMS Student Chapter</a>, Mississippi State University, USA, 2021 - 2022.</li>
+    <li style="margin-bottom: 10px;">👨‍💼 <strong style="color: #F1C40F;">Advisor</strong> at the Graduate Development Network (GDNSUST), SUST, 2018 - 2019.</li>
+    <li style="margin-bottom: 10px;">💼 <strong style="color: #F1C40F;">Executive Member</strong> at the Debating Society, SUST, 2011 - 2012.</li>
+    <li style="margin-bottom: 10px;">🏅 <strong style="color: #F1C40F;">Elected Executive Member</strong> at the IPE Association, SUST, 2010 - 2011.</li>
+  </ul>
+</div>
+
+## 🎫 Membership
+
+<div class="callout-box" style="padding: 20px; background-color: #2F4F4F; border-radius: 10px; box-shadow: 0 4px 8px rgba(100, 149, 237, 0.2); margin-top: 20px;">
+  <ul style="list-style-type: none; padding-left: 0; font-size: 1.1rem; line-height: 1.6; color: #F0F0F0;">
+    <li style="margin-bottom: 10px;">📜 <strong style="color: #F1C40F;">Member</strong> of <a href="https://www.mvc.msstate.edu/about/" style="color: #AED6F1; text-decoration: none;">The Institute for Operations Research and the Management Sciences (INFORMS)</a></li>
+    <li style="margin-bottom: 10px;">🏛️ <strong style="color: #F1C40F;">Member</strong> of the <a href="https://www.iise.org/Home/" style="color: #AED6F1; text-decoration: none;">Institute of Industrial and Systems Engineers (IISE)</a></li>
+    <li style="margin-bottom: 10px;">👥 <strong style="color: #F1C40F;">Member</strong> of the <a href="https://sipeaa.com/about" style="color: #AED6F1; text-decoration: none;">SUST IPE Alumni Association (SIPEAA)</a></li>
+  </ul>
+</div>
