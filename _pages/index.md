@@ -6,35 +6,19 @@ permalink: /
 author_profile: true
 ---
 
-<section class="section">
-  <div class="container">
-    
-    <!-- Start of Callout Section -->
-    <div class="card" style="background-color: #2e3b4e;" data-aos="fade-up">
-      <div class="card-content">
-        <div class="columns is-vcentered">
-          
-          <!-- Image Column -->
-          <div class="column is-one-third" data-aos="zoom-in">
-            <figure class="image is-256x256">
-              <img src="/assets/images/Profile_pic.jpg" alt="mahathir-bappy" style="border-radius: 50%; max-width: 256px;">
-            </figure>
-          </div>
-
-          <!-- About Section Column -->
-          <div class="column">
-            <h2 class="title has-text-white" style="color: #b3cdd1;">About</h2>
-            <p class="content has-text-white" style="text-align: justify;">
-              I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #b3cdd1;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #b3cdd1;">Louisiana State University (LSU)</a>. My research focuses on <strong>advanced sensing and analytics for systems informatics</strong>, <strong>privacy-preserving modeling</strong>, and <strong>expert AI collaboration</strong>. The primary applications of my work include <strong>smart manufacturing systems</strong>, <strong>cyber-physical security</strong>, <strong>energy systems</strong>, <strong>engineering education</strong>, and <strong>sustainability</strong>.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- End of Callout Section -->
-
+<div style="display: flex; align-items: center; padding: 20px; background-color: #2C3E50; border-radius: 10px;">
+  <!-- Profile Image -->
+  <img src="/assets/images/Profile_pic.jpg" width="200px" height="auto" alt="Mahathir Mohammad Bappy" style="border-radius: 50%; margin-right: 20px;" />
+  
+  <!-- About Section -->
+  <div style="color: #fff;">
+    <h2 style="color: #fff; margin-top: 0;">About</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+      I am an <strong>Assistant Professor</strong> in the <a href="https://www.lsu.edu/eng/mie/" style="color: #1ABC9C; text-decoration: none;">Mechanical and Industrial Engineering Department</a> at <a href="https://www.lsu.edu/" style="color: #1ABC9C; text-decoration: none;">Louisiana State University (LSU)</a>. My research focuses on <strong>advanced sensing and analytics for systems informatics</strong>, <strong>privacy-preserving modeling</strong>, and <strong>expert AI collaboration</strong>. The primary applications of my work include <strong>smart manufacturing systems</strong>, <strong>cyber-physical security</strong>, <strong>energy systems</strong>, <strong>engineering education</strong>, and <strong>sustainability</strong>.
+    </p>
   </div>
-</section>
+</div>
+
 
 
 ## **Vacancy Notice**
