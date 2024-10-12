@@ -37,64 +37,137 @@ author_profile: true
   <!-- June 2024 Callout -->
   <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 255, 0.2); margin-bottom: 15px;">
     <h4 style="color: #1ABC9C;">June 2024:</h4>
-    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
-      <span style="font-style: italic; color: #1ABC9C;">🎉 Excited</span> to attend the <span style="color: #AED6F1;">North American Manufacturing Research Conference (NAMRC)-52</span> for the first time! I am going to present our research on <span style="font-style: italic;">"Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis"</span> in-person at NAMRC, Knoxville, TN.
-    </p>
+    <ul style="font-size: 1.1rem; line-height: 1.6; color: #F0F0F0; list-style-type: none; padding-left: 0;">
+      <li>🎉 <span style="color: #1ABC9C;">Excited</span> to attend the <span style="color: #AED6F1;">North American Manufacturing Research Conference (NAMRC)-52</span> for the first time!</li>
+      <li>📝 I am going to present our research on <span style="font-style: italic;">"Domain Adaptation between Heterogeneous Time Series Data: A Case Study on Real-time Rotary Machinery Fault Diagnosis"</span> in-person at NAMRC, Knoxville, TN.</li>
+    </ul>
   </div>
 
   <!-- April 2024 Callout -->
   <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 0, 0.2); margin-bottom: 15px;">
     <h4 style="color: #F1C40F;">April 2024:</h4>
-    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
-      <span style="font-style: italic; color: #F1C40F;">🌟 Exciting News:</span> I'm delighted to share that I have <span style="color: #AED6F1;">successfully defended my Ph.D. dissertation</span>! What an amazing journey it's been!<br>
-      Such a great feeling! I am thrilled to announce that I have been honored with the <span style="color: #AED6F1;">ISE Outstanding Graduate Student Researcher Award, 2023-2024</span>!<br>
-      Attended as an <span style="font-style: italic; color: #F1C40F;">Evaluator</span> in the undergraduate research symposium at Mississippi State University.
-    </p>
+    <ul style="font-size: 1.1rem; line-height: 1.6; color: #F0F0F0; list-style-type: none; padding-left: 0;">
+      <li>🌟 <span style="color: #F1C40F;">Exciting News</span>: I'm delighted to share that I have <span style="color: #AED6F1;">successfully defended my Ph.D. dissertation</span>!</li>
+      <li>🏆 Such a great feeling! I am thrilled to announce that I have been honored with the <span style="color: #AED6F1;">ISE Outstanding Graduate Student Researcher Award, 2023-2024</span>!</li>
+      <li>🎓 Attended as an <span style="color: #F1C40F;">Evaluator</span> in the undergraduate research symposium at Mississippi State University.</li>
+    </ul>
   </div>
 
   <!-- March 2024 Callout -->
   <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 255, 0.2); margin-bottom: 15px;">
     <h4 style="color: #1ABC9C;">March 2024:</h4>
-    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
-      Attended as a <span style="font-style: italic; color: #1ABC9C;">Judge</span> in the Mississippi Region V Science & Engineering Fair, 2024.<br>
-      Excited to attend the <span style="color: #AED6F1;">IISE regional conference, 2024</span>!<br>
-      <span style="font-style: italic; color: #1ABC9C;">📑 Conference papers accepted!</span> Two papers have been accepted at the <span style="color: #AED6F1;">52nd SME North American Manufacturing Research Conference (NAMRC 52, 2024)</span>.
-    </p>
+    <ul style="font-size: 1.1rem; line-height: 1.6; color: #F0F0F0; list-style-type: none; padding-left: 0;">
+      <li>🎖️ Attended as a <span style="color: #1ABC9C;">Judge</span> in the Mississippi Region V Science & Engineering Fair, 2024.</li>
+      <li>📅 Excited to attend the <span style="color: #AED6F1;">IISE regional conference, 2024</span>!</li>
+      <li>📑 <span style="color: #1ABC9C;">Conference papers accepted!</span> Two papers have been accepted at the <span style="color: #AED6F1;">52nd SME North American Manufacturing Research Conference (NAMRC 52, 2024)</span>.</li>
+    </ul>
   </div>
 
   <!-- December 2023 Callout -->
   <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 165, 0, 0.2);">
     <h4 style="color: #FF851B;">December 2023:</h4>
-    <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify; color: #F0F0F0;">
-      Such a great feeling! Once again, as an <span style="font-style: italic; color: #FF851B;">Independent Instructor of Record</span>, I conducted a course (IE 3323: Manufacturing Processes) in the fall 2023 semester at Mississippi State University and received excellent feedback from my students.
-    </p>
+    <ul style="font-size: 1.1rem; line-height: 1.6; color: #F0F0F0; list-style-type: none; padding-left: 0;">
+      <li>🎓 Such a great feeling! Once again, as an <span style="color: #FF851B;">Independent Instructor of Record</span>, I conducted a course (IE 3323: Manufacturing Processes) in the fall 2023 semester at Mississippi State University.</li>
+      <li>💬 I received excellent feedback from my students, making it a very rewarding experience.</li>
+    </ul>
   </div>
 </div>
 
-## Selected Research
 
-<a href="https://scholar.google.com/citations?hl=en&user=FRV5XRUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn btn--mcw" style="background-color: #4285F4;"><i class="fas fa-graduation-cap"></i><span> Google Scholar</span></a>
-<a href="https://www.researchgate.net/profile/Mahathir-Bappy-2" target="_blank" class="btn btn--mcw" style="background-color: #00CCBB;"><i class="fab fa-researchgate"></i><span> ResearchGate</span></a>
+<!-- Selected Research Section -->
+<div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; margin-top: 20px;">
+  <h2 style="color: #AED6F1;">Selected Research</h2>
 
-1. **Mahathir Mohammad Bappy**, Durant Fullington, Linkan Bian & Wenmeng Tian, "**Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing**," In *Manufacturing Letters*, April, 2023.
-   <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-   <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:5u0T22ixRlsJ:scholar.google.com/&output=citation&scisdr=ClHXFrHQELPR8m_Zb_0:AFWwaeYAAAAAZtrfd_1uB1wJ7n6pMYOm-yNnxGc&scisig=AFWwaeYAAAAAZtrfd0653Ut0zbffq75up_MRuqA&scisf=4&ct=citation&cd=-1&hl=en' target='_blank' class='btn btn--mcwbibtex'><img src='/assets/publications/BibTeX_logo-16px-high.png'/></a>
-   <img src='/assets/images/Selected_research_1.JPG' alt='Publication Image 1' style='width:150px; margin:10px;'/>
+  <!-- Research 1 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/Selected_research_1.JPG" alt="Publication Image 1" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        <strong>Mahathir Mohammad Bappy</strong>, Durant Fullington, Linkan Bian & Wenmeng Tian, 
+        <em>"Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">Manufacturing Letters</span>, April, 2023.
+      </p>
+      <div>
+        <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+        </a>
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:5u0T22ixRlsJ:scholar.google.com/&output=citation' target='_blank' class='btn'>
+          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        </a>
+      </div>
+    </div>
+  </div>
 
-2. **Mahathir Mohammad Bappy**, Chenang Liu, Linkan Bian & Wenmeng Tian, "**Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes**," In *ASME Journal of Manufacturing Science and Engineering (JMSE)*, July, 2022.
-   <a href='https://doi.org/10.1115/1.4054805' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-   <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:0rys9NGZyBYJ:scholar.google.com/&output=citation&scisdr=ClHXFrHQELPR8m_q-AE:AFWwaeYAAAAAZtrs4AEfDdvkvH7hswMQyfbXelE&scisig=AFWwaeYAAAAAZtrs4AZSpIdRLV84vUGnJndmYhk&scisf=4&ct=citation&cd=-1&hl=en' target='_blank' class='btn btn--mcwbibtex'><img src='/assets/publications/BibTeX_logo-16px-high.png'/></a>
-   <img src='/assets/images/selected_research_2.JPG' alt='Publication Image 2' style='width:150px; margin:10px;'/>
+  <!-- Research 2 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/selected_research_2.JPG" alt="Publication Image 2" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        <strong>Mahathir Mohammad Bappy</strong>, Chenang Liu, Linkan Bian & Wenmeng Tian, 
+        <em>"Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">ASME Journal of Manufacturing Science and Engineering (JMSE)</span>, July, 2022.
+      </p>
+      <div>
+        <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+        </a>
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:0rys9NGZyBYJ:scholar.google.com/&output=citation' target='_blank' class='btn'>
+          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        </a>
+      </div>
+    </div>
+  </div>
 
-3. Mehrnaz Noroozi Esfahani, **Mahathir Mohammad Bappy**, Linkan Bian & Wenmeng Tian, "**In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis**," In *Journal of Manufacturing Processes (JMP)*, March, 2022.
-   <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-   <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:4-FbGd4Lv7kJ:scholar.google.com/&output=citation&scisdr=ClHXFrHQELPR8m_qLA4:AFWwaeYAAAAAZtrsNA6OU1MuD2cwsOUk8qDAiLc&scisig=AFWwaeYAAAAAZtrsNEr4A7gncqc5dCxO-Bl-3xo&scisf=4&ct=citation&cd=-1&hl=en' target='_blank' class='btn btn--mcwbibtex'><img src='/assets/publications/BibTeX_logo-16px-high.png'/></a>
-   <img src='/assets/images/selected_research_3.JPG' alt='Publication Image 3' style='width:150px; margin:10px;'/>
+  <!-- Research 3 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/selected_research_3.JPG" alt="Publication Image 3" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        Mehrnaz Noroozi Esfahani, <strong>Mahathir Mohammad Bappy</strong>, Linkan Bian & Wenmeng Tian, 
+        <em>"In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">Journal of Manufacturing Processes (JMP)</span>, March, 2022.
+      </p>
+      <div>
+        <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+        </a>
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:4-FbGd4Lv7kJ:scholar.google.com/&output=citation' target='_blank' class='btn'>
+          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        </a>
+      </div>
+    </div>
+  </div>
 
-4. Abdullah Al Mamun, **Mahathir Mohammad Bappy**, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, "**Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis**," In *International Journal of Advanced Manufacturing Technology (IJAMT)*, November, 2022.
-   <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-   <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:WYq9sH4CGQ8J:scholar.google.com/&output=citation&scisdr=ClHXFrHQELPR8m_tYsg:AFWwaeYAAAAAZtrresjXCy9yej_9uP6DlIUS-g4&scisig=AFWwaeYAAAAAZtrrethvbDgfJLOKTDOOBjCeujo&scisf=4&ct=citation&cd=-1&hl=en' target='_blank' class='btn btn--mcwbibtex'><img src='/assets/images/selected_research_4.JPG'/></a>
+  <!-- Research 4 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/selected_research_4.JPG" alt="Publication Image 4" style="width: 130px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        Abdullah Al Mamun, <strong>Mahathir Mohammad Bappy</strong>, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, 
+        <em>"Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">International Journal of Advanced Manufacturing Technology (IJAMT)</span>, November, 2022.
+      </p>
+      <div>
+        <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i> DOI Link
+        </a>
+        <a href='https://scholar.googleusercontent.com/scholar.bib?q=info:WYq9sH4CGQ8J:scholar.google.com/&output=citation' target='_blank' class='btn'>
+          <img src='/assets/publications/BibTeX_logo-16px-high.png' alt="BibTeX" /> BibTeX
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
+<!-- Google Scholar and ResearchGate Buttons -->
+<div style="margin-top: 30px;">
+  <a href="https://scholar.google.com/citations?user=FRV5XRUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn" style="background-color: #4285F4; color: white; padding: 10px 15px; border-radius: 5px; margin-right: 10px;">
+    <i class="fab fa-google"></i> Google Scholar
+  </a>
+  <a href="https://www.researchgate.net/profile/Mahathir-Bappy-2" target="_blank" class="btn" style="background-color: #00CCBB; color: white; padding: 10px 15px; border-radius: 5px;">
+    <i class="fab fa-researchgate"></i> ResearchGate
+  </a>
+</div>
 
 ## 🎖️ **<span style="color:#ff5733;">Honors and Awards</span>**
 
