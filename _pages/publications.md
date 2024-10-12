@@ -9,30 +9,69 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-## Journal Papers
+<!-- Journal Papers Section -->
+<h2 style="color: #AED6F1;">📄 Journal Papers</h2>
 
-<div class="publication-row">
-    <img src="/assets/images/publication_1.png" class="publication-image" alt="Publication 1">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Durant Fullington, Linkan Bian & Wenmeng Tian, "**Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing**," In *Manufacturing Letters*, April, 2023.
-        <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
+<div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); margin-top: 20px;">
 
-<div class="publication-row">
-    <img src="/assets/images/publication_2.png" class="publication-image" alt="Publication 2">
-    <p>
-        **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Chenang Liu, Linkan Bian & Wenmeng Tian, "**Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes**," In *ASME Journal of Manufacturing Science and Engineering (JMSE)*, July, 2022.
-        <a href='https://doi.org/10.1115/1.4054805' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
-</div>
+  <!-- Google Scholar and ResearchGate Buttons at the top -->
+  <div style="display: flex; gap: 20px; margin-bottom: 20px;">
+    <a href="https://scholar.google.com/citations?user=FRV5XRUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn" style="background-color: #4285F4; display: flex; align-items: center; color: white; padding: 10px 15px; border-radius: 5px;">
+      <img src="/assets/images/google-scholar.svg" alt="Google Scholar Icon" style="width: 20px; margin-right: 10px;">
+      Google Scholar
+    </a>
+    <a href="https://www.researchgate.net/profile/Mahathir-Bappy-2" target="_blank" class="btn" style="background-color: #00CCBB; display: flex; align-items: center; color: white; padding: 10px 15px; border-radius: 5px;">
+      <img src="/assets/images/researchgate.svg" alt="ResearchGate Icon" style="width: 20px; margin-right: 10px;">
+      ResearchGate
+    </a>
+  </div>
 
-<div class="publication-row">
-    <img src="/assets/images/publication_3.png" class="publication-image" alt="Publication 3">
-    <p>
-        Mehrnaz Noroozi Esfahani, **<span style="font-weight:bold;">Mahathir Mohammad Bappy</span>**, Linkan Bian & Wenmeng Tian, "**In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis**," In *Journal of Manufacturing Processes (JMP)*, March, 2022.
-        <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' class="btn btn--primary" target="_blank"><i class='ai ai-fw ai-doi'></i> DOI</a>
-    </p>
+  <!-- Journal Paper 1 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/publication_1.png" alt="Publication 1" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        <strong>Mahathir Mohammad Bappy</strong>, Durant Fullington, Linkan Bian & Wenmeng Tian, 
+        <em>"Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">Manufacturing Letters</span>, April, 2023.
+        <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Journal Paper 2 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/publication_2.png" alt="Publication 2" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        <strong>Mahathir Mohammad Bappy</strong>, Chenang Liu, Linkan Bian & Wenmeng Tian, 
+        <em>"Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">ASME Journal of Manufacturing Science and Engineering (JMSE)</span>, July, 2022.
+        <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Journal Paper 3 -->
+  <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
+    <img src="/assets/images/publication_3.png" alt="Publication 3" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <div style="flex: 1; color: #F0F0F0;">
+      <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
+        Mehrnaz Noroozi Esfahani, <strong>Mahathir Mohammad Bappy</strong>, Linkan Bian & Wenmeng Tian, 
+        <em>"In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis"</em>, In 
+        <span style="font-style: italic; color: #AED6F1;">Journal of Manufacturing Processes (JMP)</span>, March, 2022.
+        <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
+          <i class='ai ai-fw ai-doi' style='color: #F1C40F; margin-left: 5px; font-size: 1.68rem;'></i>
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Continue adding more journal papers in the same style here... -->
 </div>
 
 <div class="publication-row">
