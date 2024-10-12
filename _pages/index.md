@@ -92,69 +92,61 @@ author_profile: true
 
   <!-- Research 1 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/Selected_research_1.JPG" alt="Publication Image 1" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/Selected_research_1.JPG" alt="Publication Image 1" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         <strong>Mahathir Mohammad Bappy</strong>, Durant Fullington, Linkan Bian & Wenmeng Tian, 
         <em>"Evaluation of Design Information Disclosure through Thermal Feature Extraction in Metal-based Additive Manufacturing"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">Manufacturing Letters</span>, April, 2023.
-      </p>
-      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1016/j.mfglet.2023.03.004' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
         </a>
-      </div>
+      </p>
     </div>
   </div>
 
   <!-- Research 2 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/selected_research_2.JPG" alt="Publication Image 2" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_2.JPG" alt="Publication Image 2" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         <strong>Mahathir Mohammad Bappy</strong>, Chenang Liu, Linkan Bian & Wenmeng Tian, 
         <em>"Morphological Dynamics-Based Anomaly Detection Towards In-Situ Layer-Wise Certification for Directed Energy Deposition Processes"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">ASME Journal of Manufacturing Science and Engineering (JMSE)</span>, July, 2022.
-      </p>
-      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1115/1.4054805' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
         </a>
-      </div>
+      </p>
     </div>
   </div>
 
   <!-- Research 3 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/selected_research_3.JPG" alt="Publication Image 3" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_3.JPG" alt="Publication Image 3" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Mehrnaz Noroozi Esfahani, <strong>Mahathir Mohammad Bappy</strong>, Linkan Bian & Wenmeng Tian, 
         <em>"In-situ layer-wise certification for direct laser deposition processes based on thermal image series analysis"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">Journal of Manufacturing Processes (JMP)</span>, March, 2022.
-      </p>
-      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1016/j.jmapro.2021.12.041' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
         </a>
-      </div>
+      </p>
     </div>
   </div>
 
   <!-- Research 4 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/selected_research_4.JPG" alt="Publication Image 4" style="width: 195px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_4.JPG" alt="Publication Image 4" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Abdullah Al Mamun, <strong>Mahathir Mohammad Bappy</strong>, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, 
         <em>"Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis"</em>, In 
         <span style="font-style: italic; color: #AED6F1;">International Journal of Advanced Manufacturing Technology (IJAMT)</span>, November, 2022.
-      </p>
-      <div style="display: flex; gap: 10px;">
         <a href='https://doi.org/10.1007/s00170-022-10525-4' target='_blank'>
-          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-right: 10px;'></i>
+          <i class='ai ai-fw ai-doi' style='color: #4285F4; margin-left: 10px; font-size: 1.4rem;'></i>
         </a>
-      </div>
+      </p>
     </div>
   </div>
 </div>
@@ -175,26 +167,3 @@ author_profile: true
 - 📊 *“Research Project Funding Award”* at **Research Centre** in **SUST, Bangladesh**, **<span style="color:#2E8B57;">2019</span>.**
 - 🎓 *“University Merit Scholarship”* at **Shajalal University of Science and Technology, Bangladesh**, **<span style="color:#2E8B57;">2009-2013</span>.**
 
-<style>
-  /* Animation */
-  div p, div li {
-    position: relative;
-    animation: fadeIn 1s ease-in-out;
-  }
-
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      left: -20px;
-    }
-    100% {
-      opacity: 1;
-      left: 0;
-    }
-  }
-
-  /* Custom Styling */
-  li {
-    margin-bottom: 15px;
-  }
-</style>
