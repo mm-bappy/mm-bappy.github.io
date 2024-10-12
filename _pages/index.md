@@ -155,18 +155,17 @@ author_profile: true
 <div style="padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-top: 20px;">
   <h2 style="color: #ff5733; font-size: 1.5rem;">🎖️ Honors and Awards</h2>
   <ul style="list-style-type: none; padding-left: 0; color: #F0F0F0; font-size: 1.1rem; line-height: 1.6;">
-    <li>🏅 <strong style="color: #F1C40F;">ISE</strong> “Outstanding Graduate Student Researcher” award, <span style="color:#2E8B57;">2023-2024</span>.</li>
-    <li>🏆 “Best Poster Award” at <strong style="color: #F1C40F;">Research Week Poster Competition</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2023</span>.</li>
-    <li>🎖️ “Best Poster Award” at <strong style="color: #F1C40F;">Research That Matters</strong> in <strong style="color: #F1C40F;">ISE - Poster Competition</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2023</span>.</li>
-    <li>🥈 <strong style="color: #F1C40F;">First Runner-up of Best Posters</strong> at <strong style="color: #F1C40F;">Graduate Research Symposium</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2023</span>.</li>
-    <li>🎓 “Selected for the Doctoral Student Colloquium”, <strong style="color: #F1C40F;">IISE, USA</strong>, <span style="color:#2E8B57;">2023</span>.</li>
-    <li>🥈 <strong style="color: #F1C40F;">First Runner-up of Best Posters</strong> at <strong style="color: #F1C40F;">Graduate Research Symposium</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2022</span>.</li>
-    <li>🚀 “Graduate Student Travel Assistance Grants (TAGGS)” by <strong style="color: #F1C40F;">The Graduate School</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2022</span>.</li>
-    <li>🎖️ “INFORMS Student Chapter Magna Cum Laude Award” at <strong style="color: #F1C40F;">INFORMS Annual Meeting</strong> in Indianapolis, USA, <span style="color:#2E8B57;">2022</span>.</li>
-    <li>🎓 “Manufacturing & Design Student Sponsorship Award” by <strong style="color: #F1C40F;">IISE, USA</strong>, <span style="color:#2E8B57;">2021</span>.</li>
-    <li>🥈 <strong style="color: #F1C40F;">First Runner-up of Best Posters</strong> at <strong style="color: #F1C40F;">Graduate Research Symposium</strong> in Mississippi State University, USA, <span style="color:#2E8B57;">2021</span>.</li>
-    <li>📊 “Research Project Funding Award” at <strong style="color: #F1C40F;">Research Centre</strong> in <strong style="color: #F1C40F;">SUST, Bangladesh</strong>, <span style="color:#2E8B57;">2019</span>.</li>
-    <li>🎓 “University Merit Scholarship” at <strong style="color: #F1C40F;">Shajalal University of Science and Technology, Bangladesh</strong>, <span style="color:#2E8B57;">2009-2013</span>.</li>
+    <li>🏅 <strong style="color: #F1C40F;">Outstanding Graduate Student Researcher</strong> award, 2023-2024.</li>
+    <li>🏆 <strong style="color: #1E90FF;">Best Poster Award</strong> at Research Week Poster Competition in Mississippi State University, USA, 2023.</li>
+    <li>🎖️ <strong style="color: #1E90FF;">Best Poster Award</strong> at Research That Matters in ISE - Poster Competition in Mississippi State University, USA, 2023.</li>
+    <li>🥈 <strong style="color: #FF4500;">First Runner-up of Best Posters</strong> at Graduate Research Symposium in Mississippi State University, USA, 2023.</li>
+    <li>🎓 <strong style="color: #32CD32;">Selected for the Doctoral Student Colloquium</strong>, IISE, USA, 2023.</li>
+    <li>🥈 <strong style="color: #FF4500;">First Runner-up of Best Posters</strong> at Graduate Research Symposium in Mississippi State University, USA, 2022.</li>
+    <li>🚀 <strong style="color: #FF6347;">Graduate Student Travel Assistance Grants (TAGGS)</strong> by The Graduate School in Mississippi State University, USA, 2022.</li>
+    <li>🎖️ <strong style="color: #F1C40F;">INFORMS Student Chapter Magna Cum Laude Award</strong> at INFORMS Annual Meeting in Indianapolis, USA, 2022.</li>
+    <li>🎓 <strong style="color: #FF8C00;">Manufacturing & Design Student Sponsorship Award</strong> by IISE, USA, 2021.</li>
+    <li>🥈 <strong style="color: #FF4500;">First Runner-up of Best Posters</strong> at Graduate Research Symposium in Mississippi State University, USA, 2021.</li>
+    <li>📊 <strong style="color: #4682B4;">Research Project Funding Award</strong> at Research Centre in SUST, Bangladesh, 2019.</li>
+    <li>🎓 <strong style="color: #4682B4;">University Merit Scholarship</strong> at Shajalal University of Science and Technology, Bangladesh, 2009-2013.</li>
   </ul>
 </div>
-
