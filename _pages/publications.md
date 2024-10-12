@@ -59,7 +59,7 @@ toc_sticky: true
 
   <!-- Journal Paper 3 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/Selected_research_3.JPG" alt="Publication 3" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_3.JPG" alt="Publication 3" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Mehrnaz Noroozi Esfahani, <strong>Mahathir Mohammad Bappy</strong>, Linkan Bian & Wenmeng Tian, 
@@ -74,7 +74,7 @@ toc_sticky: true
 
   <!-- Journal Paper 4 -->
   <div style="display: flex; align-items: center; padding: 20px; background-color: #2D2F39; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); margin-bottom: 20px;">
-    <img src="/assets/images/Selected_research_4.JPG" alt="Publication 4" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
+    <img src="/assets/images/selected_research_4.JPG" alt="Publication 4" style="width: 234px; height: auto; margin-right: 20px; border-radius: 5px;" />
     <div style="flex: 1; color: #F0F0F0;">
       <p style="font-size: 1.1rem; line-height: 1.6; text-align: justify;">
         Abdullah Al Mamun, <strong>Mahathir Mohammad Bappy</strong>, Ayantha Senanayaka Mudiyanselage, Jiali Li, Zhipeng Jiang, Zhenhua Tian, Sara Fuller, T. C. Falls, Linkan Bian & Wenmeng Tian, 
